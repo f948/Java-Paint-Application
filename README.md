@@ -2,11 +2,17 @@
 
 Description: A microsoft paint like application in which the user can paint on the canvas using all the colors supported in JavaFX
 
-# Required 
+
+# Required
+
+IDE like eclipse or netbeans to import the project files and run them 
 
 
-# To make the code work
-Run the html file using your web browser
+# To make the code work 
+
+First download the zip file 
+Use your Java IDE to import the zip file that contains all the project files
+Then open up the "src" folder and right click on the  file that you would like to run and click"Run File"
 
 # LICENSE:
 
