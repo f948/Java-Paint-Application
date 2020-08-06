@@ -2,6 +2,8 @@
 
 Description: A microsoft paint like application in which the user can paint on the canvas using all the colors supported in JavaFX
 
+Video demonstration avaliable at https://www.youtube.com/watch?v=in2SCmO-OnA&t=9s
+
 
 # Required
 
